@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hllblt/busters/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/hllblt/busters/static/js/main.2c3acd8b.chunk.js",
+    "main.js.map": "/hllblt/busters/static/js/main.2c3acd8b.chunk.js.map",
+    "runtime-main.js": "/hllblt/busters/static/js/runtime-main.85489ed6.js",
+    "runtime-main.js.map": "/hllblt/busters/static/js/runtime-main.85489ed6.js.map",
+    "static/js/2.04c0dfad.chunk.js": "/hllblt/busters/static/js/2.04c0dfad.chunk.js",
+    "static/js/2.04c0dfad.chunk.js.map": "/hllblt/busters/static/js/2.04c0dfad.chunk.js.map",
+    "static/js/3.17e1cbe1.chunk.js": "/hllblt/busters/static/js/3.17e1cbe1.chunk.js",
+    "static/js/3.17e1cbe1.chunk.js.map": "/hllblt/busters/static/js/3.17e1cbe1.chunk.js.map",
+    "index.html": "/hllblt/busters/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/hllblt/busters/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.04c0dfad.chunk.js.LICENSE.txt": "/hllblt/busters/static/js/2.04c0dfad.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/hllblt/busters/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85489ed6.js",
+    "static/js/2.04c0dfad.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.2c3acd8b.chunk.js"
+  ]
+}
